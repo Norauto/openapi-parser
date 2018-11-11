@@ -1,6 +1,6 @@
 package main
 
-import "github.com/alexjomin/openapi-parser/cmd"
+import "github.com/Norauto/openapi-parser/cmd"
 
 func main() {
 	cmd.Execute()

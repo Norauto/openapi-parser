@@ -1,10 +1,10 @@
-# Parser OpenAPI [![Build Status](https://travis-ci.org/alexjomin/openapi-parser.svg?branch=master)](https://travis-ci.org/alexjomin/openapi-parser)
+# Parser OpenAPI [![Build Status](https://travis-ci.org/Norauto/openapi-parser.svg?branch=master)](https://travis-ci.org/Norauto/openapi-parser)
 
 Parse openAPI from go comments in handlers and structs
 
 ## Install
 
-+ `go get github.com/alexjomin/openapi-parser`
++ `go get github.com/Norauto/openapi-parser`
 
 ## Comments
 
